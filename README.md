@@ -1,11 +1,4 @@
-npx expo install expo-linear-gradient
-npx expo install firebase
-npx expo install @expo/vector-icons
-npx expo install expo-secure-store
-
-
-
-ProGym Manager - SaaS Subscription Platform 🏋️‍♂️
+# ProGym Manager - SaaS Subscription Platform 🏋️‍♂️
 A high-performance, Arabic-centric Management System for Gyms & Fitness Centers.
 
 ![picture](./gym/yay1.png)
