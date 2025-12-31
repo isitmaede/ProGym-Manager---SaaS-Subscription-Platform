@@ -8,12 +8,12 @@ npx expo install expo-secure-store
 ProGym Manager - SaaS Subscription Platform 🏋️‍♂️
 A high-performance, Arabic-centric Management System for Gyms & Fitness Centers.
 
-![picture](./preview/yay1.png)
-![picture](./preview/yay2.png)
-![picture](./preview/yay3.png)
-![picture](./preview/yay4.png)
-![picture](./preview/yay5.png)
-![picture](./preview/yay6.png)
+![picture](./gym/yay1.png)
+![picture](./gym/yay2.png)
+![picture](./gym/yay3.png)
+![picture](./gym/yay4.png)
+![picture](./gym/yay5.png)
+![picture](./gym/yay6.png)
 
 🌟 Overview
 ProGym Manager is a production-ready SaaS solution designed to streamline gym operations. Built with a focus on User Experience (UX) and RTL (Right-to-Left) precision, it bridges the gap between complex management tools and non-technical business owners. It provides a centralized dashboard to track memberships, finances, and automated subscription lifecycles.
